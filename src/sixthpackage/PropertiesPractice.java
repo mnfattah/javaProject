@@ -18,7 +18,7 @@ public class PropertiesPractice {
         String password = p.getProperty("password");
         String url1 = p.getProperty("url");
 
-        String url = url1;// + dbname;
+        String url = url1;
 
         // Class.forName("com.mysql.cj.jdbc.Driver");
 
